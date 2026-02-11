@@ -1,5 +1,4 @@
 # ARTI308-Machine-Learning
-# ARTI 308 – Machine Learning
 ## Academic Year (2025/2026) – 2nd Semester
 
 ### Student Information
