@@ -18,5 +18,5 @@ Each lab focuses on the following stages:
 
 ### Tools & Technologies
 * Version Control: Git & GitHub
-* IDE: Visual Studio Code
+* IDE: google colab
 * Environment: Jupyter Notebooks (Python)
