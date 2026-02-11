@@ -2,7 +2,7 @@
 ## Academic Year (2025/2026) – 2nd Semester
 
 ### Student Information
-* **Name:** Abdullah
+* **Name:** Abdullah Hussain alnasir
 * **Department:** College of Computer Science & IT
 
 ### Repository Description
